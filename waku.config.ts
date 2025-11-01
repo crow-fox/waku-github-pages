@@ -13,4 +13,6 @@ export default defineConfig({
       }),
     ],
   },
+  //
+  basePath: "/waku-github-pages/",
 });
